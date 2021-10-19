@@ -14,7 +14,14 @@ The organization of this document probably seems strange. That's because it's pa
 
 [Link to the Lab 4 prompt](https://docs.google.com/document/d/1KX6_bKA8BOO0NdsUviVi0HCT-q9iTCtTYsS1dGNQJfU/edit?usp=sharing)
 
-### Cool animal fun facts {.tabset .tabset-fade}
+#anything below this level 3 header with a level 4 will be anew tab, until a new level 3 tab is added (hierarchy not absolute level you are using that matters)
+
+### Cool animal fun facts {.tabset .tabset-fade} 
+
+#### Ringtail cat
+
+![Ringtail cat (courtest of VA Zoo)](img/ringtail_cat.jpg)
+
 
 #### SHARKS!!!
 
@@ -49,4 +56,5 @@ The organization of this document probably seems strange. That's because it's pa
 ###
 
 ----------
+The 3 #s above indicate that this is the end of the tab sectons
 **Disclaimer:** This document is only for R Markdown & GitHub teaching purposes in ESM 206, Bren School of Environmental Science and Management (UCSB) 
